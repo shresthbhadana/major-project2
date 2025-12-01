@@ -37,7 +37,7 @@ function Hero() {
         </div>
         <div className="col-4 text-center mt-5">
             <img 
-            src="/media/image/pricing0.svg"
+            src="/Media/image/pricing0.svg"
             alt=""
             style={{ width: "70%", }}
           />
