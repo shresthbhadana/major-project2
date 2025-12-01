@@ -1,0 +1,36 @@
+.hero-text-about{
+    margin-top : 80px;
+     margin-bottom : 80px;
+     /* margin-left: 550px; */
+    width :"600px";
+    display: block;
+font: 24px inter,sans-serif;
+text-align: center;
+  /* font-family: inherit,serif; */
+      -webkit-font-smoothing: antialiased;
+ justify-content: center;
+  padding:  80px;
+      
+}
+.about-hero-section {
+    margin-top:100px;
+    border-top: 0.5px solid rgb(236, 231, 231) ;
+    margin-bottom: 100px;
+  /* margin-left: 200px; */
+  
+    
+}
+.about-hero-row{
+   max-width: 850px;
+  line-height: 1.9;
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  color: #424242;
+  margin: 100px; 
+  column-gap:2.5rem ;
+  font-weight: 300;
+   letter-spacing: 0.3px;
+    text-align: justify; 
+     gap: 3rem;
+      margin-left: 200px;
+}
